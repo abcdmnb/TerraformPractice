@@ -1,0 +1,4 @@
+terraform init   #to initialize the terraform
+terraform plan   #to check whether the code is workig successful or not
+terraform apply  #to run the actual code
+terraform destroy   #to destroy whatever changes we made
